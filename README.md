@@ -1,5 +1,11 @@
 # Alessandro Dos Santos
 
+```
+In the modern age,
+AI threatens uniqueness,
+Can we still create?
+```
+
 ## Hi there 👋
 Welcome to my GitHub! I'm Alessandro, a machine learning researcher with an affinity for computer vision applications, algorithms, and plain old problem solving. I enjoy learning, sports, video games, socializing, the outdoors, and movies in my free time! I like to think that I'm a Master of None working to become a Master of Some, especially in the algorithmic domain. I have a Bachelor's Degree in Mechanical Engineering and a Master's Degree in Computer Science, both from the University of North Dakota. You can check out my thesis [here](#1)!
 
